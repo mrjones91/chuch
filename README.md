@@ -1,6 +1,10 @@
 # Super App for the Black Church Community
 
-The social media platform for the Black Church. Study the Bible together, Pray for one another, Fellowship, Grow as Disciples and Develop your gifts.
+The social media platform for the Black Church. 
+
+Study the Bible together, Pray for one another, Fellowship, Grow as Disciples and Develop your gifts ALL for the Glory of God.
+
+![Homepage Preview](public/homepage.png)
 
 # Key Users & Use Cases
 
@@ -85,8 +89,13 @@ Virtual Circular Bitcoin Economy
   - NOSTR Wallet Connect enables seemless payments via Bitcoin and Lightning networks
   - Local-Global Economy of Support, Commerce
 
-# Stack
+# Behind the Scenes
 
+This app is designed as a PWA (Progressive Web App), meaning it will look well and function on screens and devices of all sizes, no app install required.
+
+Some key languages, libraries, and protocols include:
+
+- Typescript
 - React
 - NOSTR
 
