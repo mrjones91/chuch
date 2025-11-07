@@ -105,3 +105,7 @@ Some key languages, libraries, and protocols include:
 #### [Ollama](https://ollama.com)
 #### [Llama3.2](https://www.llama.com/models/llama-3/)
 #### [VSCode Copilot](https://code.visualstudio.com/docs/copilot/overview)
+
+# Open Source Bible Resources
+
+#### [arron-taylor/bible-versions](https://github.com/arron-taylor/bible-versions)
