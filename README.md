@@ -84,3 +84,15 @@ Social Connection Model
 Virtual Circular Bitcoin Economy
   - NOSTR Wallet Connect enables seemless payments via Bitcoin and Lightning networks
   - Local-Global Economy of Support, Commerce
+
+# Stack
+
+- React
+- NOSTR
+
+# Created in conjunction with AI
+
+#### [Shakespeare.diy](https://shakespeare.diy)
+#### [Ollama](https://ollama.com)
+#### [Llama3.2](https://www.llama.com/models/llama-3/)
+#### [VSCode Copilot](https://code.visualstudio.com/docs/copilot/overview)
